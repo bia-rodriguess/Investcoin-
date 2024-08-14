@@ -1,0 +1,50 @@
+h1 {
+    font-family: Rubik;
+    color: #FFDA15;
+}
+
+h3 {
+    font-family: Rubik;
+    color: #FFDA15;
+}
+
+h2 {
+    font-family: Rubik;
+    color: #FFDA15;
+}
+
+p {
+
+    font-family: IBM Plex Serif;
+    color: #FFDA15;
+    
+
+}
+
+body {
+
+    display: block;
+    background-size: 100%;
+    background-image: url(imagemdefundo.jpg);
+}
+
+header {
+    color: white;
+
+}
+
+a {
+    background-color: antiquewhite;
+    border-radius: 20%;
+    text-align: center;
+    margin-right: 15px;
+
+}
+
+.botao {
+    font-size: 30px;
+    background-color: grey;
+    margin: 2px;
+    padding: 7px;
+
+}
