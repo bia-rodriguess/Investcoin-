@@ -1,6 +1,7 @@
 h1 {
     font-family: Rubik;
     color: #FFDA15;
+    margin-left: 5%;
 }
 
 h3 {
@@ -17,7 +18,9 @@ p {
 
     font-family: IBM Plex Serif;
     color: #FFDA15;
-    
+    margin-left: 2%;
+    margin-right: 50%;
+
 
 }
 
@@ -34,17 +37,33 @@ header {
 }
 
 a {
-    background-color: antiquewhite;
-    border-radius: 20%;
+
+    border-radius: 28%;
     text-align: center;
     margin-right: 15px;
+    text-decoration: none;
 
+    
+
+}
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: #FFDA15;
 }
 
 .botao {
     font-size: 30px;
     background-color: grey;
-    margin: 2px;
-    padding: 7px;
+    margin: 50px;
+    padding: 10px;
+
 
 }
+
+img {
+    width: 200px;
+}
+
