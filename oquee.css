@@ -1,0 +1,65 @@
+h1 {
+    font-family: Rubik;
+    color: white;
+    margin-left: 5%;
+}
+
+h3 {
+    font-family: Rubik;
+    color: white;
+}
+
+h2 {
+    font-family: Rubik;
+    color: white;
+}
+
+p {
+
+    font-family: IBM Plex Serif;
+    color: white;
+    margin-left: 2%;
+    margin-right: 50%;
+
+
+}
+
+body {
+
+    display: block;
+    background-size: 100%;
+    background-color:  #111111;
+    gradi;
+}
+
+header {
+    color: white;
+
+}
+
+a {
+
+    border-radius: 28%;
+    text-align: center;
+    margin-right: 15px;
+    text-decoration: none;
+
+    
+
+}
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: #FFDA15;
+}
+
+.botao {
+    font-size: 30px;
+    background-color: grey;
+    margin: 50px;
+    padding: 10px;
+
+
+}
