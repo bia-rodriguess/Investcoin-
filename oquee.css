@@ -1,65 +1,27 @@
 h1 {
     font-family: Rubik;
-    color: white;
-    margin-left: 5%;
+    color: #FFDA15;
+    text-shadow: 0.5mm 0.4mm 0.2mm rgb(141, 139, 31);
 }
-
 h3 {
     font-family: Rubik;
-    color: white;
+    color: #FFDA15;
 }
-
 h2 {
     font-family: Rubik;
-    color: white;
+    color: #FFDA15;
 }
-
 p {
-
+    font-size: 20px;
+    text-shadow: 0.2mm 0.2mm 0.2mm rgb(217, 235, 114);
     font-family: IBM Plex Serif;
-    color: white;
-    margin-left: 2%;
-    margin-right: 50%;
-
-
+    color: #fff1a0;
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-top: 31px;
 }
-
 body {
-
     display: block;
     background-size: 100%;
     background-color:  #111111;
-    gradi;
-}
-
-header {
-    color: white;
-
-}
-
-a {
-
-    border-radius: 28%;
-    text-align: center;
-    margin-right: 15px;
-    text-decoration: none;
-
-    
-
-}
-a:hover {
-    color: white;
-}
-
-a:active {
-    color: #FFDA15;
-}
-
-.botao {
-    font-size: 30px;
-    background-color: grey;
-    margin: 50px;
-    padding: 10px;
-
-
 }
