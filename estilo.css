@@ -1,69 +1,61 @@
 h1 {
+    float: inline-start;
     font-family: Rubik;
     color: #FFDA15;
     margin-left: 5%;
+    margin-top: 4px;
+    text-shadow: 0.5mm 0.4mm 0.2mm rgb(0, 0, 0);
+    position:relative;
+    right: 14px;
+    bottom: 6px;
+    font-size: 40px;
 }
-
 h3 {
     font-family: Rubik;
     color: #FFDA15;
 }
-
 h2 {
     font-family: Rubik;
     color: #FFDA15;
 }
-
 p {
-
+    font-size: 20px;
+    text-shadow: 0.2mm 0.2mm 0.2mm rgb(217, 235, 114);
     font-family: IBM Plex Serif;
     color: #FFDA15;
-    margin-left: 2%;
-    margin-right: 50%;
-
-
+    margin-left: 50px;
+    margin-right: 800px;
+    margin-top: 31px;
 }
-
 body {
-
     display: block;
     background-size: 100%;
     background-image: url(imagemdefundo.jpg);
 }
-
-header {
-    color: white;
-
-}
-
-a {
-
-    border-radius: 28%;
-    text-align: center;
-    margin-right: 15px;
+a{
+    color: #FFDA15;
     text-decoration: none;
-
-    
-
+    font-size: 28px;
+    margin: 50px;
+    padding: 10px;
+    text-shadow: 0.2mm 0.2mm 0.2mm #FFDA15;
+}
+header {
+    background-color: grey;
+    padding: 18px;
+    text-align: center;
 }
 a:hover {
     color: white;
 }
-
 a:active {
     color: #FFDA15;
 }
-
-.botao {
-    font-size: 30px;
-    background-color: grey;
-    margin: 50px;
-    padding: 10px;
-
-
-}
-
 img {
-    width: 200px;
+    float: inline-start;
+    width: 60px;
+    position:relative; 
+    bottom: 10px;
+    left: 20px;
 }
 
