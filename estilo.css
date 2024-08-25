@@ -58,4 +58,14 @@ img {
     bottom: 10px;
     left: 20px;
 }
+footer {
+    background-color: rgb(68, 68, 68);
+    padding: 15px;
+    position: relative;
+    top: 210px;
+}
+#imgfot {
+    float: inline-end;
+}
+
 
