@@ -70,7 +70,7 @@ footer {
 }
 .title {
     float: inline-start;
-    font-family: Rubik;
+    font-family: "Acme", sans-serif;
     color: #FFDA15;
     margin-left: 5%;
     margin-top: 4px;
