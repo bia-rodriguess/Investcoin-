@@ -6,47 +6,60 @@ h1 {
     font-size: 2.5rem;
     text-align: center;
 }
+
+h2, h3 {
+    font-family: "Rubik", sans-serif;
+    color: #FFDA15;
+    text-align: center;
+}
+
 h3 {
-    font-family: Rubik;
-    color: #FFDA15;
-}
-h2 {
-    font-family: Rubik;
-    color: #FFDA15;
-}
+    font-size: 1.75rem;
+
 p {
-    font-size: 20px;
-    text-shadow: 0.2mm 0.2mm 0.2mm rgb(217, 235, 114);
-    font-family: IBM Plex Serif;
+    font-size: 1.25rem;
+    text-shadow: 1px 1px 2px rgba(217, 235, 114, 0.5);
+    font-family: "IBM Plex Serif", serif;
     color: #FFDA15;
-    margin-left: 50px;
-    margin-right: 800px;
-    margin-top: 31px;
+    margin: 20px auto;
+    max-width: 800px;
+    line-height: 1.6;
 }
+
 body {
     display: block;
     background-size: 100%;
     background-image: url(imagemdefundo.jpg);
 }
+
 a{
     color: #FFDA15;
     text-decoration: none;
-    font-size: 28px;
-    margin: 50px;
+    font-size: 1.75rem;
     padding: 10px;
-    text-shadow: 0.2mm 0.2mm 0.2mm #FFDA15;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
 }
+
 header {
     background-color: grey;
-    padding: 18px;
+    padding: 20px;
     text-align: center;
 }
+
+header img {
+    max-width: 100px;
+    height: auto;
+}
+
 a:hover {
     color: white;
+    text-decoration: underline;
 }
+
 a:active {
     color: #FFDA15;
 }
+
 img {
     float: inline-start;
     width: 60px;
@@ -54,14 +67,20 @@ img {
     bottom: 10px;
     left: 20px;
 }
+
 footer {
     background-color: rgb(68, 68, 68);
+    color: white;
     padding: 15px;
+    text-align: center;
     position: relative;
-    top: 210px;
+    bottom: 0;
+    width: 100%;
 }
+
 #imgfot {
-    float: inline-end;
+    float: right;
+    margin-left: 10px;
 }
 
 
