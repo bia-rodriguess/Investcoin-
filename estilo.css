@@ -27,9 +27,12 @@ p {
 }
 
 body {
-    display: block;
-    background-size: 100%;
-    background-image: url(imagemdefundo.jpg);
+    background-image: url('imagemdefundo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Rubik', sans-serif;
+    color: #333;
 }
 
 a{
