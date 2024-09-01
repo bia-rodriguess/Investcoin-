@@ -38,7 +38,7 @@ a{
     color: #FFDA15;
     text-decoration: none;
     font-size: 28px;
-    margin: 50px;
+    margin: 25px;
     padding: 10px;
     text-shadow: 0.2mm 0.2mm 0.2mm #FFDA15;
 }
@@ -68,15 +68,6 @@ img {
     bottom: 10px;
     left: 20px;
 }
-footer {
-    background-color: rgb(68, 68, 68);
-    padding: 15px;
-    position: relative;
-    top: 210px;
-}
-#imgfot {
-    float: inline-end;
-}
 .title {
     float: inline-start;
     font-family: "Acme", sans-serif;
@@ -89,21 +80,15 @@ footer {
     bottom: 6px;
     font-size: 40px;
 }
-
 table {
-
     margin-left: 50px;
     padding: 10px;
     color: #f3f2ea;
     border: 1px solid #FFDA15;
     border-spacing: 0 10px;
-
 }
-
-td, th {
-    
+td, th {   
     margin: 5px;
     padding: 10px;
     border: 1px solid black;
-
 }
