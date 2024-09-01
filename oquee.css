@@ -87,13 +87,13 @@ table {
     margin-left: 50px;
     padding: 10px;
     color: #f3f2ea;
-    border: 1px solid #FFDA15;
+    border: 3px solid #FFDA15;
     border-spacing: 0 10px;
 }
 td, th {   
     margin: 5px;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid #ffe867;
 }
 .fonte {
     color: #f1dd67;
