@@ -2,22 +2,25 @@ h1 {
     font-family: Rubik;
     color: #FFDA15;
     text-shadow: 0.5mm 0.4mm 0.2mm rgb(141, 139, 31);
-    position: relative;
-    right: 230px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 31px;
 }
 h3 {
     text-shadow: 0.5mm 0.4mm 0.2mm #000000;
     font-family: Rubik;
     color: #FFDA15;
-    position: relative;
-    left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 31px;
 }
 h2 {
     text-shadow: 0.5mm 0.4mm 0.2mm #000000;
     font-family: Rubik;
     color: #FFDA15;
-    position: relative;
-    left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 31px;
 }
 p {
     font-size: 20px;
