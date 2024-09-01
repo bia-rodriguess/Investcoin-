@@ -37,6 +37,8 @@ body {
 a{
     color: #FFDA15;
     text-decoration: none;
+    font-size: 28px;
+    margin: 50px;
     padding: 10px;
     text-shadow: 0.2mm 0.2mm 0.2mm #FFDA15;
 }
@@ -45,6 +47,14 @@ a:hover {
 }
 a:active {
     color: #FFDA15;
+}
+#link {
+    color: #fff1a0;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 50px;
+    padding: 10px;
+    text-shadow: 0.2mm 0.2mm 0.2mm #FFDA15;
 }
 header {
     background-color: grey;
