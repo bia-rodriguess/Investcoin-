@@ -61,11 +61,18 @@ img {
 footer {
     background-color: rgb(68, 68, 68);
     padding: 15px;
+    background-origin: padding-box;
+    bottom: -600px;
     position: relative;
-    top: 210px;
 }
 #imgfot {
     float: inline-end;
 }
+html, body {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+
 
 
